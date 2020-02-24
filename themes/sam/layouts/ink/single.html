@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {{ block "head" . }}
+        {{ partial "head.html" . }}
+        {{ end }}
+    
+        {{ block "head_resources" . }}
+        <!-- Use this block to link to further resources like .js or .css files. -->
+        {{ end }}
+        <title>
+            {{ block "title" . }}
+            {{ .Title }}
+            {{ end }}
+        </title>
+    </head>
+
+<body>
+<div class="wrap">
+    <div class="outerContainer">
+        <div id="story" class="container">
+            <div class="section" id="title">
+                {{ .Title }}
+            </div>
+            <p>
+                {{ .Content }}
+            </p>
+            <hr />
+            <p>
+        </div>
+        {{ block "bottom-menu" . }}
+{{ if .Site.Params.mainMenu }}<div class="section bottom-menu">{{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" false) }}</div>{{ end }}
+{{ end }}
+{{ block "footer" . }}<div class="section footer">{{ partial "footer.html" . }}</div>{{ end }}
+    </div>
+</div>
+
+    <script src="{{ "js/ink.min.js" | absURL}}"></script>
+    <script src="{{ .Params.ink | absURL}}"></script>
+    <script src="{{ "js/main.js" | absURL}}"></script>
+</body>
+</html>
