@@ -1,4 +1,4 @@
-baseurl                  = "https://sirmetathyst.github.io/novelexperiments/"           # Your domain name. Must end with "/"
+baseurl                  = "https://epic-heyrovsky-9846bc.netlify.com/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -21,11 +21,11 @@ pygmentsCodefences       = true
     title                = "Call me Sam"
 
 [[params.mainMenu]]
-    link = "/novelexperiments/dsm"
-    text = "Demon Sword Maiden"
+    link = "/posts"
+    text = "Posts"
 
 [[params.mainMenu]]
-    link = "/novelexperiments/about"
+    link = "/about"
     text = "About"
 
 [imaging]
