@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ink.</title>
+    <link>https://epic-heyrovsky-9846bc.netlify.com/posts/</link>
+    <description>Recent content in Posts on Ink.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://epic-heyrovsky-9846bc.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demon Sword Maiden</title>
+      <link>https://epic-heyrovsky-9846bc.netlify.com/posts/dsm/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://epic-heyrovsky-9846bc.netlify.com/posts/dsm/</guid>
+      <description>Demon Sword Maiden revolves around a boy who was sent to a dark, mysterious parallel world in the body of his beautiful senior sister, Lily. The lone girl ran into the night parade of a hundred demons the very day she arrived; seeking survival amongst the warrior’s dispute in a chaotic world, and forging her own demon sword! This is an unimaginable other world adventure!</description>
+    </item>
+    
+  </channel>
+</rss>

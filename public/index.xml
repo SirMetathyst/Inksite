@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call me Sam</title>
-    <link>https://sirmetathyst.github.io/novelexperiments/</link>
-    <description>Recent content on Call me Sam</description>
+    <title>Ink.</title>
+    <link>https://epic-heyrovsky-9846bc.netlify.com/</link>
+    <description>Recent content on Ink.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sirmetathyst.github.io/novelexperiments/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epic-heyrovsky-9846bc.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://sirmetathyst.github.io/novelexperiments/about/</link>
+      <link>https://epic-heyrovsky-9846bc.netlify.com/about/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sirmetathyst.github.io/novelexperiments/about/</guid>
+      <guid>https://epic-heyrovsky-9846bc.netlify.com/about/</guid>
       <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way.
 I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
 I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll look great on any screen, and all you have to do is provide a folder of images.</description>
@@ -24,10 +24,10 @@ I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll loo
     
     <item>
       <title>Demon Sword Maiden</title>
-      <link>https://sirmetathyst.github.io/novelexperiments/dsm/</link>
+      <link>https://epic-heyrovsky-9846bc.netlify.com/posts/dsm/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sirmetathyst.github.io/novelexperiments/dsm/</guid>
+      <guid>https://epic-heyrovsky-9846bc.netlify.com/posts/dsm/</guid>
       <description>Demon Sword Maiden revolves around a boy who was sent to a dark, mysterious parallel world in the body of his beautiful senior sister, Lily. The lone girl ran into the night parade of a hundred demons the very day she arrived; seeking survival amongst the warrior’s dispute in a chaotic world, and forging her own demon sword! This is an unimaginable other world adventure!</description>
     </item>
     

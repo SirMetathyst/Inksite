@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sirmetathyst.github.io/novelexperiments/about/</loc>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/about/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sirmetathyst.github.io/novelexperiments/</loc>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/posts/dsm/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sirmetathyst.github.io/novelexperiments/dsm/</loc>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sirmetathyst.github.io/novelexperiments/categories/</loc>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/posts/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sirmetathyst.github.io/novelexperiments/tags/</loc>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://epic-heyrovsky-9846bc.netlify.com/tags/</loc>
   </url>
   
 </urlset>
