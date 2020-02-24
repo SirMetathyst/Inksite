@@ -28,9 +28,15 @@
             <hr />
             <p>
         </div>
-        {{ block "bottom-menu" . }}
-{{ if .Site.Params.mainMenu }}<div class="section bottom-menu">{{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" false) }}</div>{{ end }}
-{{ end }}
+
+
+        {{ define "bottom-menu" }}
+        <div class="section bottom-menu">
+            {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+        </div>
+        {{ end }}
+
+
 {{ block "footer" . }}<div class="section footer">{{ partial "footer.html" . }}</div>{{ end }}
     </div>
 </div>
