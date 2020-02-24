@@ -11,7 +11,7 @@ Lily, that was the name of this female body. Why did we refer to it like that?
 That’s because, the soul of this young lady, was a boy who could still be considered somewhat handsome.
 
 * [Inspect myself?] 
-    Lily inspected herself -> inspect_myself
+    Lily inspected herself but -> inspect_myself
     
 * [Carry on]
     -> carry_on
